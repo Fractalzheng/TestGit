@@ -1,8 +1,9 @@
 分支管理：
 创建分支git branch dev
-切换分支git checkout dev
+切换到新分支git checkout dev
 查看分支git branch
 在分支上提交
 切回主分支git checkout master
 将分支上的内容合并到主分支git merge dev
 删除分支git branch -d dev
+（git checkout 可以使用git switch来代替）
